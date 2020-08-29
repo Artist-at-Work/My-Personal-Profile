@@ -1,2 +1,2 @@
-# MyChatapp
-A chat app for a Uni assignment
+# My Personal Profile
+My personal profile page for RMIT Uni
