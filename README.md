@@ -1,6 +1,3 @@
-<style>
-</style>
-
 **My Personal Profile**
 
 My personal profile
